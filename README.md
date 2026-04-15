@@ -1,1 +1,3 @@
-# hyf-test-reposdd\nMCP test repository
+# hyf-test-reposdd
+
+MCP test repository - updated
